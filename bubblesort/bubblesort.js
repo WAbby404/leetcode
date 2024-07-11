@@ -28,3 +28,6 @@ const arr2 = [9, 5, 3, 2, 4, 6];
 bubbleSort(arr);
 bubbleSort(arr2);
 console.log(bubbleSort([4, 3, 5, 2, 1]));
+
+// Bubble Sort Video
+// https://www.youtube.com/watch?v=xli_FI7CuzA
